@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>images/rocket.png.jpg</file>
+        <file>images/sky.png.jpg</file>
+        <file>openNewOne.qml</file>
+    </qresource>
+</RCC>
